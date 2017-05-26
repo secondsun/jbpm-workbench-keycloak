@@ -586,7 +586,7 @@
   }, {
     "id" : "2a220c3a-c669-4044-812b-c2adc0b98f62",
     "clientId" : "kie",
-    "rootUrl" : "http://localhost:8080",
+    "rootUrl" : "http://jbpm.10.1.10.101.nip.io",
     "baseUrl" : "/jbpm-console",
     "surrogateAuthRequired" : false,
     "enabled" : true,

@@ -1,7 +1,0 @@
-<secure-deployment name="WAR MODULE NAME.war">
-    <realm>kie</realm>
-    <auth-server-url>http://localhost:8080/auth</auth-server-url>
-    <ssl-required>EXTERNAL</ssl-required>
-    <resource>kie</resource>
-    <credential name="secret">907e7d2f-dd35-426d-b203-4a53f2a5f370</credential>
-</secure-deployment>
