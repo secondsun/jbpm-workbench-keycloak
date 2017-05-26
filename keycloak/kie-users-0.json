@@ -1,0 +1,30 @@
+{
+  "realm" : "kie",
+  "users" : [ {
+    "id" : "d839e39f-65f7-4a6d-a5bd-bf18c292bda5",
+    "createdTimestamp" : 1495734681751,
+    "username" : "admin",
+    "enabled" : true,
+    "totp" : false,
+    "emailVerified" : false,
+    "credentials" : [ {
+      "type" : "password",
+      "hashedSaltedValue" : "tCqqr7mQJfa7MD+oNpNxYhBpzEUXBNdKHzS5m9AZlO82sRwGYWZZCjd57l858pEEr+UpJtCPdPgH+/gdFpq3vg==",
+      "salt" : "6TO/7jfwskr+ZKzI8LoLWQ==",
+      "hashIterations" : 20000,
+      "counter" : 0,
+      "algorithm" : "pbkdf2",
+      "digits" : 0,
+      "period" : 0,
+      "createdDate" : 1495734689573,
+      "config" : { }
+    } ],
+    "disableableCredentialTypes" : [ "password" ],
+    "requiredActions" : [ ],
+    "realmRoles" : [ "rest-all", "admin", "kiemgmt", "offline_access", "uma_authorization" ],
+    "clientRoles" : {
+      "account" : [ "view-profile", "manage-account" ]
+    },
+    "groups" : [ ]
+  } ]
+}
